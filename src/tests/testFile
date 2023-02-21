@@ -1,0 +1,6 @@
+    para realizar pruebas unitarias en java necesitamos de Junit o testNG
+    Junit es una libreria (libreria es un conjunto de clases agrupadas en un package)
+    dentro de las librerias se encuentran las clases necesarias para aplicar conceptos
+
+    cuando creamos una prueba unitaria construimos un metodo que prueba un metodo
+    para definir que un metodo es una prueba, se usa la anotacion @Test
